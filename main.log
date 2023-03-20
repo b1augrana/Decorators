@@ -1,0 +1,70 @@
+Время вызова функции: 2023-03-21 02:40:14.000134
+имя функции: hello_world
+Аргументы: () _ {}
+Результат: Hello WorldВремя вызова функции: 2023-03-21 02:40:14.000134
+имя функции: summator
+Аргументы: (2, 2) _ {}
+Результат: 4Время вызова функции: 2023-03-21 02:40:14.001262
+имя функции: div
+Аргументы: (6, 2) _ {}
+Результат: 3.0Время вызова функции: 2023-03-21 02:40:14.001262
+имя функции: summator
+Аргументы: (4.3,) _ {'b': 2.2}
+Результат: 6.5Время вызова функции: 2023-03-21 02:40:14.001262
+имя функции: summator
+Аргументы: () _ {'a': 0, 'b': 0}
+Результат: 0Время вызова функции: 2023-03-21 02:40:19.076955
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311BB790>, 'Python', 10) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.077964
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311BB790>, 'Python', 10) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.077964
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311BB790>, 'Python', 10) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.077964
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Python', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.077964
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Python', 10) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.077964
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Python', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.078972
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311BB790>, 'Python', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.078972
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311BB790>, 'Python', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.078972
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311BB790>, 'Python', 8) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.078972
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Python', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.078972
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Python', 10) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.078972
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Python', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.079976
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Git', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.079976
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Git', 8) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.079976
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311BBB50>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Git', 7) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.079976
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Git', 6) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.079976
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Git', 9) _ {}
+Результат: NoneВремя вызова функции: 2023-03-21 02:40:19.079976
+имя функции: rate_lecturer
+Аргументы: (<__main__.Student object at 0x0000023D311B9F60>, <__main__.Lecturer object at 0x0000023D311B9270>, 'Git', 8) _ {}
+Результат: None
